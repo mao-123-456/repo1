@@ -14,6 +14,7 @@ public class demo01 {
         //向集合内添加数据需要add（）方法
         list.add("召开");
         list.add("333");
+	list.add("第三次提交");
         System.out.println(list);
         System.out.println(list.toString());
     }
